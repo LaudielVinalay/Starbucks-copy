@@ -256,3 +256,44 @@
 .imagen-8{
     width: 100%;
 }
+
+.tc7{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 40px;
+    color: white;
+    font-weight: bold;
+}
+
+.button-c7{
+    margin-top: 35px;
+    border-radius: 30px;
+    color: white;
+    background-color: transparent;
+    font-weight: bold;
+    padding: 5px 10px 5px 10px;
+    border-color: white;
+    font-size: medium;
+}
+
+.tc8{
+    padding-top: 40px;
+    text-align: center;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+
+}
+
+.button-c8{
+    margin-top: 35px;
+    border-radius: 30px;    
+    color: white;
+    background-color: transparent;
+    font-weight: bold;
+    border-color: white;
+    padding: 5px 10px 5px 10px;
+    font-size:medium;
+
+
+}
